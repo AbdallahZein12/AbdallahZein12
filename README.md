@@ -1,7 +1,7 @@
 
 
 - 👋 Hi, I’m @AbdallahZein12
-- 👀 I’m interested in python development and machine learning!
+- 👀 I’m interested in python development!
 - 🌱 I’m currently learning webscraping with scrapy & selenium, PyQt, and C++. I am a freshmen CS student at LIU Brooklyn!
 - 💞️ I’m looking to collaborate on anything coding related!!!
 - 📫 How to reach me www.linkedin.com/in/abdallah-abdel
