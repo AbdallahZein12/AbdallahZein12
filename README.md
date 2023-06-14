@@ -7,7 +7,9 @@
 - 📫 How to reach me www.linkedin.com/in/abdallah-abdel
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdallahZein12&show_icons=true&theme=radical)
+![Abdallah's GitHub stats](https://github-stats-alpha.vercel.app/api?username=AbdallahZein12)
+<br />
+[![GitHub Streak](https://streak-stats.demolab.com/?user=AbdallahZein12)](https://git.io/streak-stats)
 
 
 <!---
