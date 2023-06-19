@@ -1,8 +1,8 @@
 
 
 - 👋 Hi, I’m @AbdallahZein12
-- 👀 I’m interested in python development!
-- 🌱 I’m currently learning webscraping with scrapy & selenium, PyQt, and C++. I am a freshmen CS student at LIU Brooklyn!
+- 👀 I’m interested in Python Development!
+- 🌱 I’m currently learning about Data Science with (Numpy, Pandas, Matlib...) and Algos and Data Structures like stacks and binary trees!. I am a freshmen CS student at LIU Brooklyn and the president of the LIU Computer Science club!
 - 💞️ I’m looking to collaborate on anything coding related!!!
 - 📫 How to reach me www.linkedin.com/in/abdallah-abdel
 
