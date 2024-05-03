@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @AbdallahZein12
 - 👀 I’m interested in Python Development and Data Science!
-- 🌱 I’m currently learning about Data Science with (Numpy, Pandas, Matlib...) and Algos and Data Structures like stacks and binary trees!. I am a sophomore CS student at LIU Brooklyn and the president of the 2023/2024 Google Developer Student Club Chapter!
+- 🌱 I’m currently interning at the NYC DYCD as an IT Intern and I am learning about Data Science with (Numpy, Pandas, Matplotlib...) and Algos and Data Structures like linked lists and binary trees!. I am a sophomore CS student at LIU Brooklyn and the president of the 2023/2024 Google Developer Student Club Chapter!
 - 💞️ I’m looking to collaborate on anything coding related!!!
 - 📫 How to reach me www.linkedin.com/in/abdallah-abdel
 
